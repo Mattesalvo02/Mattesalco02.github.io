@@ -805,10 +805,13 @@ img {
         background-image: url('images/hero_mobile.jpg');
         background-attachment: scroll;
         background-position: center center;
+        height: auto;
+        min-height: 100vh;
+        padding-bottom: 80px;
     }
 
     .hero-content {
-        padding-top: 90px;
+        padding-top: 140px;
     }
 
     .hero-content h1 {
