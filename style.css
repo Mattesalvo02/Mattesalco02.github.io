@@ -602,6 +602,8 @@ img {
 .info-details p, .info-details a {
     color: var(--text-light);
     font-size: 1rem;
+    word-break: break-word;
+    overflow-wrap: break-word;
 }
 
 .info-details a:hover {
@@ -799,6 +801,14 @@ img {
     
     .mobile-menu-btn {
         display: flex;
+    }
+
+    .contact-form-container {
+        padding: 24px 20px;
+    }
+
+    .info-card {
+        padding: 24px 20px;
     }
 
     .hero {

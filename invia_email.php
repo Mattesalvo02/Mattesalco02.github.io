@@ -1,6 +1,6 @@
 <?php
 // Configurazione: Inserisci qui la tua vera email quando sarai pronto
-$to = "emaildiprova@example.com"; 
+$to = "info@artigianodellacasa.it"; 
 $subject = "Nuova richiesta di preventivo dal sito Ti Riparo";
 
 // Risposta in JSON
